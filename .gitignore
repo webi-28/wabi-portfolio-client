@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+public/assets/*.JPG
+public/assets/*.jpg
+public/assets/*.png
+public/downloads/
